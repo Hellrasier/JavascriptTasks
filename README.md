@@ -1,2 +1,2 @@
 Женя, Ярик и Денис
-Jenya -- reverse(hol) 
+Jenya -- reverse(hol)(10000% loh) 
