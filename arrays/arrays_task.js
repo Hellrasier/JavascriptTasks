@@ -5,10 +5,10 @@ const sumArray = (arr) => {
 }
 
 // Write function returning max of array
-// Example: findMaxArray([1, 2, 3]) ==> 3
+// Example: maxArray([1, 3, 2]) ==> 3
 const maxArray = (arr) => {
 
 }
 
 
-export default {sumArray, maxArray}
+export {maxArray, sumArray}

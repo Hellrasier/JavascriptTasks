@@ -1,5 +1,5 @@
 import assert from 'node:assert/strict'
-import {maxArray, sumArray} from arrays_task.js
+import {maxArray, sumArray} from './arrays_task.js'
 const max = arr => Math.max(...arr)
 const sum = arr => arr.reduce((sum, val) => sum + val, 0)
 
@@ -18,5 +18,3 @@ console.log("SUM ARRAY - OK")
 
 test_data.forEach(data => assert.strictEqual(maxArray(data), max(data)))
 console.log("MAXIMUM ARRAY - OK")
-
-
